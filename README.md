@@ -202,6 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **🌟 If you found this project helpful, please give it a star! 🌟**
 
 Made with ❤️ by [Diyar Penjweny](https://github.com/diyar-penjweny)<br>
-Programming Tutorial Video [Smart Code کۆدی زیرەک]([https://github.com/diyar-penjweny](https://www.youtube.com/@SmartCode-d2p))
+
+📺 **Tutorial**: This project is featured in [Smart Code کۆدی زیرەک](https://www.youtube.com/@SmartCode-d2p) programming tutorials
 
 </div>
